@@ -1,6 +1,6 @@
 # mmbot
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to answer request from users to a bot.
 
 ## Usage
 
